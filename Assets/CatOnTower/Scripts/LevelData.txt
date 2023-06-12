@@ -1,0 +1,1 @@
+1|1|6,6|W,W,W,W,W,W,W,E,E,E,C,E,W,E,E,E,E,W,W,E,E,E,E,W,W,E,E,E,E,W,W,G,E,E,P,W|5,1
